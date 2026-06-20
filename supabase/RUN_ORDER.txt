@@ -1,0 +1,7 @@
+-- LDPL IT Helpdesk — run these in Supabase SQL Editor IN ORDER
+
+-- 1) schema.sql          — tables, enums, RLS, triggers
+-- 2) storage_setup.sql   — ticket-attachments bucket + policies
+-- 3) seed_admin.sql      — first admin (632 / 632)
+
+-- Then in Dashboard → Database → Replication: enable Realtime on `tickets`
