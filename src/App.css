@@ -58,28 +58,6 @@
   line-height: 1.6;
 }
 
-.welcome-card__structure {
-  margin: 0;
-  padding-left: 1.25rem;
-  color: var(--ldpl-text-muted);
-  font-size: 0.9375rem;
-  line-height: 1.8;
-}
-
-.welcome-card__structure code {
-  font-size: 0.8125rem;
-  background: var(--ldpl-bg);
-  padding: 0.15rem 0.4rem;
-  border-radius: 4px;
-  color: var(--ldpl-navy);
-}
-
-.welcome-card__status {
-  margin-top: 0.5rem;
-  font-size: 0.875rem;
-  color: var(--ldpl-text-muted);
-}
-
 .app-footer {
   text-align: center;
   padding: 1rem;
